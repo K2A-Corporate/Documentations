@@ -41,7 +41,7 @@ Voici la nomenclature complète des réglages de votre technologie.
 | Paramètre technique (Code) | Explication et Rôle du réglage |
 | :--- | :--- |
 | `_______________General____________________` | **Section Générale** : Paramètres d'identité du Bot. |
-| `input bool EATrader = true;` | **Activation** : Autorise ou non le bot à passer des ordres sans préavis. <br> C'est votre interrupteur. Si vous mettez "false" le bot vous enverra uniquement des signaux. Vous devez ensuite ouvrir manuellement les position. |
+| `input bool EATrader = true;` | **Activation** : Autorise ou non le bot à passer des ordres sans préavis. <br> C'est votre interrupteur. Si vous mettez "false" le bot vous enverra uniquement des signaux. Vous devez ensuite ouvrir manuellement les positions. |
 | `input ENUM_TRADING_DIRECTION buyOrSell = TRADE_BOTH;` | **Flux** : Choix entre Achat (TRADE_BUY_ONLY), <br> Vente (TRADE_SELL_ONLY) ou les deux (TRADE_BOTH). Ce paramètre est intéressant si vous arrivez à identifier une tendance claire. |
 | `input int MagicNumber = 1010;` | **Identifiant unique** : Empêche le conflit avec vos autres trades. Veillez à ne pas utiliser le même numéro sur deux graphiques différents. |
 | `input bool Display_Information = true;` | **Interface visuelle** : Affiche les stats sur le graphique. |
