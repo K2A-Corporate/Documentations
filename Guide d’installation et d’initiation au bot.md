@@ -84,4 +84,4 @@ Assurez-vous d'avoir correctement ajouté les URLs de contrôle dans votre termi
 > **Note :** Sans ces liens, le bot restera inactif pour protéger votre licence.
 
 ---
-👉 **[Lire les Conditions Générales d'Utilisation (CGU)](CGU.md)**
+👉 **[Lire les Conditions Générales d'Utilisation (CGU)](Conditions%20Générales%20d'utilisation.md)**
