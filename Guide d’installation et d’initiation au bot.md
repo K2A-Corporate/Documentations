@@ -30,7 +30,7 @@ Selon votre aisance technique, choisissez l'une des deux approches suivantes :
 3. **Configuration cruciale :** Dans l'onglet **"Général"**, cochez impérativement la case **"Autoriser le trading algorithmique"**.
 4. Vérifiez que le bouton **Trading Algo** (en haut de l'application MT5) est passé au **Vert**.
 
->Pour une prise en main rapide de la plateforme de trading MT5, cliquez [**ici**](https://youtu.be/7ynRo1it2lM?si=ilMEXJGSWtXmqtPq).
+>Pour une prise en main rapide de la plateforme de trading MT5, cliquez [**ICI**](https://youtu.be/RWrHimN3Ius?si=pjHs5w8rVnwFhVpB) ou [**ici**](https://youtu.be/7ynRo1it2lM?si=ilMEXJGSWtXmqtPq).
 
 ---
 
