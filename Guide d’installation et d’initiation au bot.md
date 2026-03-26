@@ -19,7 +19,7 @@ Selon votre aisance technique, choisissez l'une des deux approches suivantes :
 1. Sur MT5, cliquez sur le menu **Fichier** > **Ouvrir le dossier des données**.
 2. Allez dans le dossier `MQL5`, puis dans le sous-dossier `Experts`.
 3. **Copiez-collez** votre fichier `Master_ScalpSwinger.ex5` à cet endroit.
-4. Dans le navigateur de MT5 (à gauche), faites un clic droit sur "Expert Consultant" et choisissez **Actualiser** ou **Rafraîchir**.
+4. Dans le navigateur de MT5 (à gauche), faites un clic droit sur "Expert Consultant" et choisissez **Actualiser**.
 
 ---
 
@@ -84,4 +84,4 @@ Assurez-vous d'avoir correctement ajouté les URLs de contrôle dans votre termi
 > **Note :** Sans ces liens, le bot restera inactif pour protéger votre licence.
 
 ---
-👉 **[Lire les Conditions Générales d'Utilisation (CGU)](Conditions%20Générales%20d'Utilisation.md)**
+👉 **[Lire les Conditions Générales d'Utilisation (CGU)](Conditions%20Générales%20d'Utilisation)**
