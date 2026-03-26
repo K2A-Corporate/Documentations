@@ -6,6 +6,6 @@ Accédez à nos [Conditions Générales d'Utilisation (CGU)](Conditions%20Géné
 
 >Nous vous invitons à prendre suffisamment de votre temps pour correctement lire les CGU. Cela y va de votre sécurité et celle de K2A Corporate.
 >
->Pour toute assistance, n'hésitez pas à contacter notre [support client](t.me/kotchikpaRel).
+>Pour toute assistance, n'hésitez pas à contacter notre [support client](https://t.me/kotchikpaRel).
 
 [Je commence mon adhésion maintenant.](Adhesion)
