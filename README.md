@@ -1,6 +1,6 @@
 # Bienvenue chez K2A Corporate
 
-Vous êtes à un pas d'adhérer à l'écosystème non égalé qui changera votre vie à jamais, **K2A Smart Trading Strategy**
+Vous êtes à un pas d'adhérer à l'écosystème non égalé qui changera votre vie à jamais, **K2A Smart Trading Strategy**.
 
 Accédez à nos [Conditions Générales d'Utilisation (CGU)](Conditions%20Générales%20d'Utilisation) pour commencer.
 
