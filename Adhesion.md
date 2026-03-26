@@ -50,4 +50,4 @@ Pour une validation rapide de votre identité et de votre adresse, munissez-vous
 
 **Besoin d'assistance ?** Contactez la conciergerie K2A via notre canal Telegram officiel.
 
-👉 **[Retour à l'accueil](README)** | **[Lire les CGU](Conditions%20Générales%20d'Utilisation)**
+👉 **[Retour à l'accueil](https://k2a-corporate.github.io/Documentations/)** | **[Lire les CGU](Conditions%20Générales%20d'Utilisation)**
