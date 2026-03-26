@@ -9,5 +9,3 @@ Accédez à nos [Conditions Générales d'Utilisation (CGU)](Conditions%20Géné
 >Pour toute assistance, n'hésitez pas à contacter notre [support client](https://t.me/kotchikpaRel).
 
 **[Je commence mon adhésion maintenant.](Adhesion)**
-
-[Obtenir le produit de **K2A Smart Trading Strategy**](Master_ScalpSwinger%20mt5.ex5)
