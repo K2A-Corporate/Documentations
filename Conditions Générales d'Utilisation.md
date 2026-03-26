@@ -154,4 +154,4 @@ Ajout manuel obligatoire des URLs dans Outils > Options > Conseillers Experts :
 ---
 
 ### 📥 ÉTAPE SUIVANTE
-👉 **[Consulter le Guide d’installation et d’initiation au bot](Guide%20d’installation%20et%20d’initiation%20au%20bot.md)**
+👉 **[Consulter le Guide d’installation et d’initiation au bot](Guide%20d’installation%20et%20d’initiation%20au%20bot)**
