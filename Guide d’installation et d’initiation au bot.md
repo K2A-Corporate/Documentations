@@ -4,6 +4,8 @@
 Ce guide vous accompagne pas à pas pour configurer votre infrastructure de trading avec l'expertise **K2A Corporate**.
 
 ---
+[Obtenir le robot de trading**](Master_ScalpSwinger%20mt5.ex5)
+---
 
 ### 📥 1. INSTALLATION DU BOT (2 MÉTHODES)
 
@@ -11,14 +13,14 @@ Selon votre aisance technique, choisissez l'une des deux approches suivantes :
 
 #### 🔹 Approche A : Lancement direct (Mode "Application")
 1. Laissez votre terminal **MetaTrader 5** ouvert.
-2. Localisez le fichier `Master_ScalpSwinger.ex5` sur votre ordinateur.
+2. Localisez le fichier `Master_ScalpSwinger mt5.ex5` sur votre ordinateur.
 3. Faites un **double-clic** sur le fichier.
 4. Le bot s'installe instantanément dans votre terminal et apparait sous "Expert Consultant".
 
 #### 🔹 Approche B : Installation manuelle (Dossier Source)
 1. Sur MT5, cliquez sur le menu **Fichier** > **Ouvrir le dossier des données**.
 2. Allez dans le dossier `MQL5`, puis dans le sous-dossier `Experts`.
-3. **Copiez-collez** votre fichier `Master_ScalpSwinger.ex5` à cet endroit.
+3. **Copiez-collez** votre fichier `Master_ScalpSwinger mt5.ex5` à cet endroit.
 4. Dans le navigateur de MT5 (à gauche), faites un clic droit sur "Expert Consultant" et choisissez **Actualiser**.
 
 ---
