@@ -155,5 +155,5 @@ Ajout manuel obligatoire des URLs dans Outils > Options > Conseillers Experts :
 ---
 
 ### 📥 ÉTAPE SUIVANTE
-👉 **[Retour à l'accueil](https://k2a-corporate.github.io/Documentations/)** | 👉 [Je commence mon adhésion maintenant](Adhesion). | 
+👉 **[Retour à l'accueil](https://k2a-corporate.github.io/Documentations/)**  | 👉 [Je commence mon adhésion maintenant](Adhesion) | 
 👉 **[Consulter le Guide d’installation et d’initiation au bot](Guide%20d’installation%20et%20d’initiation%20au%20bot)**
