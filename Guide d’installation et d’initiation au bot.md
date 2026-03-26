@@ -84,4 +84,4 @@ Assurez-vous d'avoir correctement ajouté les URLs de contrôle dans votre termi
 > **Note :** Sans ces liens, le bot restera inactif pour protéger votre licence.
 
 ---
-👉 **[Lire les Conditions Générales d'Utilisation (CGU)](Conditions%20Générales%20d'Utilisation)**
+👉 **[Retour à l'accueil](https://k2a-corporate.github.io/Documentations/)**  | 👉 **[Lire les Conditions Générales d'Utilisation (CGU)](Conditions%20Générales%20d'Utilisation)**
