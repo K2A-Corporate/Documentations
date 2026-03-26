@@ -88,9 +88,10 @@ K2A Corporate encourage la croissance de ses clients via un système d'incubatio
 
 > **⚠️ Décision :** Dans l’un ou l’autre des cas, le client doit notifier son choix de plan final **02 jours avant l'échéance** de la phase de test ou dès que le compte à rebours démarre sur son graphique. Ceci est sans restriction.
 > 
-> **💡 Passage au Profil Affilié :** > Si un profil indépendant souhaite bénéficier des avantages liés au profil affilié (notamment celui de 10% de la rente mensuelle), il faut contacter l'administrateur en cliquant **[ici](https://t.me/TonLienTelegram)**.
+> **💡 Passage au Profil Affilié :** > Si un profil indépendant souhaite bénéficier des avantages liés au profil affilié (10% de la rente mensuelle), il faut contacter le **[support client](https://t.me/TonLienTelegram)**.
 > 
-> Si vous êtes nouveau, cliquez sur **[Ouvrir mon compte deriv](https://track.deriv.com/_TonLienAffilie)**.
+> Si vous êtes nouveau dans le monde du trading, cliquez **[ICI](https://track.deriv.com/_WL6NXHGf2ko-kphAZc4sJmNd7ZgqdRLk/1/)** pour créer votre compte de trading deriv. Vous aurez besoin d'une adresse e-mail valide. <br>
+> Vous trouverez ensuite un lien à la fin de ce document pour commencer votre adhésion.
 
 ---
 
@@ -154,4 +155,5 @@ Ajout manuel obligatoire des URLs dans Outils > Options > Conseillers Experts :
 ---
 
 ### 📥 ÉTAPE SUIVANTE
+👉 [Je commence mon adhésion maintenant](Adhesion).
 👉 **[Consulter le Guide d’installation et d’initiation au bot](Guide%20d’installation%20et%20d’initiation%20au%20bot)**
