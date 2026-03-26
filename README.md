@@ -8,4 +8,4 @@ Accédez à nos [Conditions Générales d'Utilisation (CGU)](Conditions%20Géné
 >
 >Pour toute assistance, n'hésitez pas à contacter notre [support client](https://t.me/kotchikpaRel).
 
-[Je commence mon adhésion maintenant.](Adhesion)
+**[Je commence mon adhésion maintenant.](Adhesion)**
