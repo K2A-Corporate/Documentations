@@ -4,7 +4,7 @@
 Ce guide vous accompagne pas à pas pour configurer votre infrastructure de trading avec l'expertise **K2A Corporate**.
 
 ---
-[Obtenir le robot de trading**](Master_ScalpSwinger%20mt5.ex5)
+[**Obtenir le bot de trading**](Master_ScalpSwinger%20mt5.ex5)
 ---
 
 ### 📥 1. INSTALLATION DU BOT (2 MÉTHODES)
