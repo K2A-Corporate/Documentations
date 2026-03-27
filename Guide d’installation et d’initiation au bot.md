@@ -4,9 +4,6 @@
 Ce guide vous accompagne pas à pas pour configurer votre infrastructure de trading avec l'expertise **K2A Corporate**.
 
 ---
-Obtenir le logiciel de trading algorithmique : [**Master_ScalpSwinger mt5**](Master_ScalpSwinger%20mt5.ex5)
-
----
 
 ### 📥 1. INSTALLATION DU BOT (2 MÉTHODES)
 
@@ -87,4 +84,6 @@ Assurez-vous d'avoir correctement ajouté les URLs de contrôle dans votre termi
 > **Note :** Sans ces liens, le bot restera inactif pour protéger votre licence.
 
 ---
-👉 **[Retour à l'accueil](https://k2a-corporate.github.io/Documentations/)**  | 👉 **[Lire les Conditions Générales d'Utilisation (CGU)](Conditions%20Générales%20d'Utilisation)**
+👉 **[Retour à l'accueil](https://k2a-corporate.github.io/Documentations/)** | 👉 **[Guide de démarrage](Adhesion)** | 👉 **[Conditions Générales d'Utilisation (CGU)](Conditions%20Générales%20d'Utilisation)**
+
+
