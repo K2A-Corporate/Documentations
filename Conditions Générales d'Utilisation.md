@@ -33,7 +33,7 @@ Le présent document définit les règles d'usage de la technologie de trading a
 | **K2A IMPERIUM+** | Prestige | 99 999 $ | Transfert - Paiement unique + Contrôle total + Code source monolithique |
 
 > * Le plan **K2A SYMBIOSIS** exige la présentation de preuves de performance du mois écoulé. <br> 
-> * > * ** Une réduction allant de **7 à 21%** est prévue et applicable exceptionnellement sur le plan **K2A VELOCITY** pour les licences cumulatives (3-6-12 mois). 
+> * Une réduction allant de **7 à 21%** est prévue et applicable exceptionnellement sur le plan **K2A VELOCITY** pour les licences cumulatives (3-6-12 mois). 
 
 ---
 
