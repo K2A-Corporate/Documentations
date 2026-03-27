@@ -32,7 +32,8 @@ Le présent document définit les règles d'usage de la technologie de trading a
 | **K2A IMPERIUM** | Franchise | 74 999 $ | Contrat - Paiement unique + Personnalisation + 20$/mois/licence |
 | **K2A IMPERIUM+** | Prestige | 99 999 $ | Transfert - Paiement unique + Contrôle total + Code source monolithique |
 
-> **💡 Note :** Une réduction allant de **7 à 21%** est prévue et applicable exceptionnellement sur le plan **K2A VELOCITY** pour les licences cumulatives (3-6-12 mois).
+> **💡 Note :** Une réduction allant de **7 à 21%** est prévue et applicable exceptionnellement sur le plan **K2A VELOCITY** pour les licences cumulatives (3-6-12 mois). <br> 
+> Le plan **K2A SYMBIOSIS** exige la présentation de preuves de performance du mois écoulé.
 
 ---
 
@@ -69,29 +70,18 @@ Afin de garantir la stabilité des flux de données et la sécurité des serveur
 
 ### ARTICLE 6 : PROGRAMME D'INCUBATION
 
-K2A Corporate encourage la croissance de ses clients via un système d'incubation exclusif. Ainsi l'accès à la technologie K2A débute par une phase de test gratuite et obligatoire, régie selon deux profils :
+K2A Corporate encourage la croissance de ses clients via un système d'incubation exclusif. Ainsi l'accès à la technologie K2A débute par une phase de test gratuite et obligatoire.
 
-#### 🔹 6.1 Profil Affilié :
-* Exclusif aux clients ayant utilisé le lien de courtage du Propriétaire pour ouvrir leurs comptes de trading
-* **Durée :** 60 jours extensible à 90 selon la performance, segmentés en **4 cycles de 15 jours**.
-* **Renouvellement :** Conditionné par une utilisation active du bot. L'activation du cycle suivant nécessite une preuve de performance obligatoire via le bot Telegram.
-* **Transition :** Au-delà du 60ème jour, l'accès devient payant selon les tarifs en vigueur (voir Art. 2).
+* **Durée unique :** 35 jours non renouvenables.
+* **Modèles d'essai au choix  :**
+     * **Hybrid (07/28) :** 07 jours en Démo / 28 jours en Réel.
+     * **Hybrid (14/21) :** 14 jours en Démo / 21 jours en Réel.
+* **Transition :** Au-delà du 35ème jour, l'accès devient payant selon les tarifs en vigueur (voir Art. 2).
+> **⚠️ Décision :** Le client doit notifier son choix de plan final **02 jours avant l'échéance** de la phase de test ou dès que le compte à rebours démarre sur son graphique. <br>
 
-#### 🔸 6.2 Profil Indépendant (Non-affilié, disposant déjà d'un compte de trading) :
-* **Durée unique :** 14 jours.
-* **Modèles d'essai au choix :**
-    * **Hybrid (7/7) :** 07 jours en Démo / 07 jours en Réel.
-    * **Full Demo (14/0) :** 14 jours en Démo uniquement.
-    * **Full Real (0/14) :** 14 jours en Réel uniquement.
-* **Renouvellement :** Aucun renouvellement autorisé.
-* **Transition :** À partir du 15ème jour, l'accès devient payant selon les tarifs en vigueur (voir Art. 2).
-
-> **⚠️ Décision :** Dans l’un ou l’autre des cas, le client doit notifier son choix de plan final **02 jours avant l'échéance** de la phase de test ou dès que le compte à rebours démarre sur son graphique. Ceci est sans restriction.
-> 
-> **💡 Passage au Profil Affilié :** > Si un profil indépendant souhaite bénéficier des avantages liés au profil affilié (10% de la rente mensuelle), il faut contacter le **[support client](https://t.me/TonLienTelegram)**.
-> 
-> Si vous êtes nouveau dans le monde du trading, cliquez **[ICI](https://track.deriv.com/_WL6NXHGf2ko-kphAZc4sJmNd7ZgqdRLk/1/)** pour créer votre compte de trading deriv. Vous aurez besoin d'une adresse e-mail valide. <br>
-> Vous trouverez ensuite un lien à la fin de ce document pour commencer votre adhésion.
+> * **Passage au Profil Affilié :** > Si un profil indépendant souhaite bénéficier des avantages liés au profil affilié (10% de la rente mensuelle), prière contacter le **[support client](https://t.me/TonLienTelegram)**. <br> 
+> * Si vous êtes nouveau dans le monde du trading, cliquez **[ICI](https://track.deriv.com/_WL6NXHGf2ko-kphAZc4sJmNd7ZgqdRLk/1/)** pour créer votre compte de trading deriv avec votre adresse e-mail valide. <br>
+> * Vous trouverez ensuite un lien à la fin de ce document pour commencer votre adhésion.
 
 ---
 
