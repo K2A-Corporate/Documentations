@@ -45,8 +45,8 @@ Voici la nomenclature complète des réglages de votre technologie.
 | `buyOrSell = TRADE_BOTH` | **Flux** : Choix entre Achat (TRADE_BUY_ONLY), <br> Vente (TRADE_SELL_ONLY) ou les deux (TRADE_BOTH). Ce paramètre est intéressant si vous arrivez à identifier une tendance claire. |
 | `MagicNumber = 1010` | **Identifiant unique** : Empêche le conflit avec vos autres trades. Veillez à ne pas utiliser le même numéro sur deux graphiques différents. |
 | `Display_Information = true` | **Interface visuelle** : Affiche les stats sur le graphique. |
+| `Send_Notification = false` | **Notification Mobile** : Alerte Push sur smartphone. Ne pas oublier de faire la liaison entre le téléphone et l'ordinateur. |
 | `Send_Alert = false` | **Alerte sonore** : Bip sur l'ordinateur lors d'un signal. |
-| `Send_Notification = false` | **Notification Mobile** : Alerte Push sur smartphone. Ne pas oublier de faire la liaison. |
 | `_______________Trend_Parameters___________` |  |
 | `Open_Positions_TIMEFRAMES = PERIOD_M15` | **Unité de temps** : Période d'analyse utilisée par le robot pour la détection des signaux et la prise de décisions. |
 | `UseRSI;` | **Filtre RSI** : Utilise l'indicateur RSI pour filtrer les signaux. |
@@ -61,7 +61,7 @@ Voici la nomenclature complète des réglages de votre technologie.
 | `_______________Take_Profit________________` |  |
 | `Use_TP` | **Take Profit** : Active la clôture automatique en profit. |
 | `TP_Factor = 2.0` | **Ratio Gain** : Multiplicateur du risque pour fixer l'objectif. <br> Si vous souhaitez que le bot définisse un niveau d'objectif optimal suivant la structure du marché, mettez cette valeur = 0. |
-| `CloseByMomentum = true` | **Sortie Dynamique** : Ferme le trade si le marché s'essouffle. |
+| `CloseByMomentum = true` | **Sortie Dynamique** : Ferme le trade si le marché s'essouffle. <br> C'est le paramètre qu'on peut désigner par "émotion" du bot. Si vous constater qu'il est trop émotif c'est que le marché est en phase de consolidation. Mettez juste cette valeur à "false" pendant cette phase. |
 | `_______________Fibonacci_Module___________` |  |
 | `Use_Fibo_Logic = false` | **Mode Fibo** : Active la stratégie par retracements. Outil supplémentaire puissant. |
 | `Fibo_Level_0 = 0.0` | Point bas de référence pour l'outil Fibonacci. |
