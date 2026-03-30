@@ -131,8 +131,8 @@ Ajout manuel obligatoire des URLs dans MetaTrader 5 :
 *Note : Tout défaut de configuration rendra le bot innactif pour "Défaut d'Authentification".*
 
 #### 📩 10.2 Services de Support<br>
-* **Centre d'Activation (Bot) : [service support](https://t.me/K2ACorporateOfficiel_bot)** (Lun-Ven | 09h00 - 19h00 UTC+1).
-* **Conciergerie Humaine : [service support](https://t.me/K2ACorporateOfficiel_bot)** ouvert 24h/24 pour Infinity, Imperium et Imperium+ uniquement.
+* **Centre d'Activation (Bot) :** [service support](https://t.me/K2ACorporateOfficiel_bot) (Lun-Ven : 09h00 - 19h00 UTC+1).
+* **Conciergerie Humaine :** [service support](https://t.me/K2ACorporateOfficiel_bot) ouvert 24h/24 pour Infinity, Imperium et Imperium+ uniquement.
 
 #### ⚙️ 10.3 Maintenance et Mises à jour
 * **Alerte :** En cas d'instabilité, une notification sera largement diffusée. Reconfiguration sous 72h requise.
