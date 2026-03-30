@@ -123,14 +123,14 @@ Pour garantir la liaison avec les serveurs, l'utilisateur doit configurer MetaTr
 
 #### 🛠️ 10.1 Autorisations WebRequest
 Ajout manuel obligatoire des URLs dans MetaTrader 5 :
-* Aller dans Outils > Options > Experts Consultant,
+* Aller dans Outils > Options > Expert Consultants,
 * Cocher la case "Autoriser WebRequest pour les URL listés",
 * Copier et coller `https://raw.githubusercontent.com`
 * Copier et coller `https://api.telegram.org`
   
 *Note : Tout défaut de configuration rendra le bot innactif pour "Défaut d'Authentification".*
 
-#### 📩 10.2 Services de Support<br>
+#### 📩 10.2 Services de Support
 * **Centre d'Activation (Bot) :** [service support](https://t.me/K2ACorporateOfficiel_bot) (Lun-Ven : 09h00 - 19h00 UTC+1).
 * **Conciergerie Humaine :** [service support](https://t.me/K2ACorporateOfficiel_bot) ouvert 24h/24 pour Infinity, Imperium et Imperium+ uniquement.
 
