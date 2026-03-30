@@ -1,6 +1,5 @@
 # 🤝 K2A CORPORATE
-## GUIDE DE DÉMARRAGE
-## K2A SMART TRADING STRATEGY
+## GUIDE DE DÉMARRAGE - K2A SMART TRADING STRATEGY
 
 Bienvenue dans l'infrastructure de croissance **K2A**. Pour intégrer notre technologie de trading automatisée, veuillez suivre les étapes de configuration ci-dessous.
 
@@ -13,8 +12,8 @@ L'adhésion à l'écosystème passe impérativement par l'ouverture d'un compte 
 👉 **[CLIQUEZ ICI POUR OUVRIR VOTRE COMPTE](https://track.deriv.com/_WL6NXHGf2ko-kphAZc4sJmNd7ZgqdRLk/1/)**
 
 > **NB** <br>
-> **1.** Seuls les comptes créés via ce lien sont éligibles au programme "Affiliés" du plan SYMBIOSIS. <br>
-> **2.** Si vous disposez déjà d'un compte deriv mais que vous souhaitez devenir "Affiliés" au sein de notre écosystème, contactez le [Service Support](https://t.me/K2ACorporateOfficiel_bot), choissiez le service **K2A SMART TRADING STRATEGY** puis la section **AFFILIATION**.
+> **1.** Seuls les comptes créés via ce lien sont éligibles au programme **"Affiliés"** du plan **K2A SYMBIOSIS** que vous découvrirez dans nos Conditions Générales d'Utilisation (CGU). <br>
+> **2.** Si vous disposez déjà d'un compte deriv mais que vous souhaitez devenir "Affiliés" au sein de notre écosystème, contactez le [service support](https://t.me/K2ACorporateOfficiel_bot), choissiez le service **K2A SMART TRADING STRATEGY** puis la section **AFFILIATION**.
 
 ---
 
@@ -41,7 +40,7 @@ Le trading algorithmique nécessite une infrastructure stable. Avant de vous lan
 
 ### 🚀 4. ÉTAPES D'ACTIVATION
 
-1. **Ouvrir un Compte :** Créez votre compte via le lien [ouvrir mon compte de trading](https://track.deriv.com/_WL6NXHGf2ko-kphAZc4sJmNd7ZgqdRLk/1/).
+1. **Ouvrir un Compte :** Créez votre compte via ce lien - [ouvrir mon compte de trading](https://track.deriv.com/_WL6NXHGf2ko-kphAZc4sJmNd7ZgqdRLk/1/).
 2. **Effectuer un Dépôt :** Alimentez votre compte de trading (Capital minimum conseillé : seulement **ce que vous pouvez vous permettre de perdre**).
 3. **Lire les [Conditions Générales d'Utilisation](Conditions%20Générales%20d'Utilisation)**.
 4. Procéder à votre **[Adhésion](https://t.me/K2ACorporateOfficiel_bot)** si vous acceptez les Conditions Générales d'Utilisation.
@@ -49,4 +48,4 @@ Le trading algorithmique nécessite une infrastructure stable. Avant de vous lan
 ---
 
 
-👉 **[Retour à l'accueil](https://k2a-corporate.github.io/Documentations/)** | **[Lire les CGU](Conditions%20Générales%20d'Utilisation)**
+👉 **[Retour à l'accueil](https://k2a-corporate.github.io/Documentations/)** | **[Lire les Conditions Générales d'Utilisation](Conditions%20Générales%20d'Utilisation)**
