@@ -76,8 +76,8 @@ K2A Corporate encourage la croissance de ses clients via un système d'incubatio
 * **Modèles d'essai au choix  :**
      * **Hybrid (07/28) :** 07 jours en Démo / 28 jours en Réel.
      * **Hybrid (14/21) :** 14 jours en Démo / 21 jours en Réel.
-* **Transition :** Au-delà du 35ème jour, l'accès devient payant selon les tarifs en vigueur (voir Art. 2).<br>
-> **⚠️ Décision :** Le client doit notifier son choix de plan final **02 jours avant l'échéance** de la phase de test ou dès que le compte à rebours démarre sur son graphique. <br>
+* **Transition :** Au-delà du 35ème jour, l'accès devient payant selon les tarifs en vigueur (voir Art. 2).<br> <br>
+> * **⚠️ Décision :** Le client doit notifier son choix de plan final **02 jours avant l'échéance** de la phase de test ou dès que le compte à rebours démarre sur son graphique. <br>
 
 > * **Passage au Profil Affilié :** Si un profil indépendant (Non-Affilié) souhaite bénéficier des avantages liés au profil affilié (10% de la rente mensuelle), prière contacter le **[service support client](https://t.me/K2ACorporateOfficiel_bot)** dans la section **K2A SMART TRADING STRATEGY** puis **AFFILIATION**. <br> 
 > * Si vous n'avez pas encore un compte de trading, cliquez **[ICI](https://track.deriv.com/_WL6NXHGf2ko-kphAZc4sJmNd7ZgqdRLk/1/)** pour créer votre compte de trading deriv avec votre adresse e-mail valide. <br>
@@ -127,7 +127,7 @@ Ajout manuel obligatoire des URLs dans MetaTrader 5 :
 * Copier et coller `https://raw.githubusercontent.com`
 * Copier et coller `https://api.telegram.org`
   
-*Note : Tout défaut de configuration entraînera l'arrêt du bot pour "Défaut d'Authentification".*
+*Note : Tout défaut de configuration rendra le bot innactif pour "Défaut d'Authentification".*
 
 #### 📩 10.2 Services de Support<br>
 * **Centre d'Activation (Bot) :** [service support](https://t.me/K2ACorporateOfficiel_bot) (Lun-Ven | 09h00 - 19h00 UTC+1).
