@@ -79,7 +79,7 @@ K2A Corporate encourage la croissance de ses clients via un système d'incubatio
 * **Transition :** Au-delà du 35ème jour, l'accès devient payant selon les tarifs en vigueur (voir Art. 2).
 > **⚠️ Décision :** Le client doit notifier son choix de plan final **02 jours avant l'échéance** de la phase de test ou dès que le compte à rebours démarre sur son graphique. <br>
 
-> * **Passage au Profil Affilié :** > Si un profil indépendant souhaite bénéficier des avantages liés au profil affilié (10% de la rente mensuelle), prière contacter le **[support client](https://t.me/TonLienTelegram)**. <br> 
+> * **Passage au Profil Affilié :** > Si un profil indépendant souhaite bénéficier des avantages liés au profil affilié (10% de la rente mensuelle), prière contacter le **[support client](https://t.me/K2ACorporateOfficiel_bot)**. <br> 
 > * Si vous êtes nouveau dans le monde du trading, cliquez **[ICI](https://track.deriv.com/_WL6NXHGf2ko-kphAZc4sJmNd7ZgqdRLk/1/)** pour créer votre compte de trading deriv avec votre adresse e-mail valide. <br>
 > * Vous trouverez ensuite un lien à la fin de ce document pour commencer votre adhésion.
 
@@ -145,4 +145,4 @@ Ajout manuel obligatoire des URLs dans Outils > Options > Conseillers Experts :
 ---
 
 ### 📥 ÉTAPE SUIVANTE
-👉 **[Retour à l'accueil](https://k2a-corporate.github.io/Documentations/)**  | 👉 **[Je commence mon adhésion maintenant](Adhesion)** |
+👉 **[Retour à l'accueil](https://k2a-corporate.github.io/Documentations/)**  | 👉 **[Je commence mon adhésion maintenant](https://t.me/K2ACorporateOfficiel_bot)** |
