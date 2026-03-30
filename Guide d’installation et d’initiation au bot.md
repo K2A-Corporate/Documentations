@@ -81,7 +81,7 @@ Assurez-vous d'avoir correctement ajouté les URLs de contrôle dans votre termi
 * `https://raw.githubusercontent.com`
 * `https://api.telegram.org`
 
-> **Note :** Sans ces liens, le bot restera inactif pour protéger votre licence.
+> **Note :** Sans ces liens, le bot restera inactif.
 
 ---
 👉 **[Retour à l'accueil](https://k2a-corporate.github.io/Documentations/)** | 👉 **[Guide de démarrage](Adhesion)** | 👉 **[Conditions Générales d'Utilisation (CGU)](Conditions%20Générales%20d'Utilisation)**
