@@ -26,7 +26,7 @@ Le présent document définit les règles d'usage de la technologie de trading a
 
 | Nom du Plan | Type | Tarif (USD) | Spécificités |
 | :--- | :--- | :--- | :--- |
-| **K2A SYMBIOSIS** | Partenariat | Affiliés : 10% profits <br> Non-Affiliés : 17% profits | Contrat - Partage de revenus mensuel |
+| **K2A SYMBIOSIS** | Partenariat | Affilié : 10% profits <br> Non-Affilié : 17% profits | Contrat - Partage de revenus mensuel |
 | **K2A VELOCITY** | Abonnement | 450 $ / mois | Contrat – Au fil de l’eau |
 | **K2A INFINITY** | Illimité | 24 999 $ | Contrat - Paiement unique (À vie) - Tant que MT5 existe |
 | **K2A IMPERIUM** | Franchise | 74 999 $ | Contrat - Paiement unique + Personnalisation + 20$/mois/licence |
@@ -40,8 +40,8 @@ Le présent document définit les règles d'usage de la technologie de trading a
 ### ARTICLE 3 : GESTION ET RÉVOCATION DES CONTRATS
 
 * **Activation :** La souscription à un contrat donne droit à l’activation de licence sans laquelle le robot se déconnecte automatiquement du graphique auquel il est attaché.
-* **Validité :** Les plans Symbiosis et Velocity ont une validité de **21 mois non vide** après la phase gratuite.
-* **Flexibilité :** Un plan mensuel est irrévocable au profit d'un autre plan mensuel avant expiration. Toutefois, la migration vers un plan à paiement unique (**Infinity, Imperium, Imperium +**) est possible à tout moment.
+* **Validité :** Les plans K2A SYMBIOSIS et K2A VELOCITY ont une validité de **21 mois actifs (non vide)** après la phase gratuite.
+* **Flexibilité :** Un plan mensuel est irrévocable au profit d'un autre plan mensuel avant son expiration. Toutefois, la migration vers un plan à paiement unique (**Infinity, Imperium, Imperium +**) est possible à tout moment.
 
 ---
 
@@ -79,9 +79,8 @@ K2A Corporate encourage la croissance de ses clients via un système d'incubatio
 * **Transition :** Au-delà du 35ème jour, l'accès devient payant selon les tarifs en vigueur (voir Art. 2).
 > **⚠️ Décision :** Le client doit notifier son choix de plan final **02 jours avant l'échéance** de la phase de test ou dès que le compte à rebours démarre sur son graphique. <br>
 
-> * **Passage au Profil Affilié :** > Si un profil indépendant souhaite bénéficier des avantages liés au profil affilié (10% de la rente mensuelle), prière contacter le **[support client](https://t.me/K2ACorporateOfficiel_bot)**. <br> 
-> * Si vous êtes nouveau dans le monde du trading, cliquez **[ICI](https://track.deriv.com/_WL6NXHGf2ko-kphAZc4sJmNd7ZgqdRLk/1/)** pour créer votre compte de trading deriv avec votre adresse e-mail valide. <br>
-> * Vous trouverez ensuite un lien à la fin de ce document pour commencer votre adhésion.
+> * **Passage au Profil Affilié :** Si un profil indépendant (Non-Affilié) souhaite bénéficier des avantages liés au profil affilié (10% de la rente mensuelle), prière contacter le **[service support client](https://t.me/K2ACorporateOfficiel_bot)** dans la section **K2A SMART TRADING STRATEGY** puis **AFFILIATION**. <br> 
+> * Si vous n'avez pas encore un compte de trading, cliquez **[ICI](https://track.deriv.com/_WL6NXHGf2ko-kphAZc4sJmNd7ZgqdRLk/1/)** pour créer votre compte de trading deriv avec votre adresse e-mail valide. <br>
 
 ---
 
@@ -90,8 +89,8 @@ K2A Corporate encourage la croissance de ses clients via un système d'incubatio
 La croissance de la communauté K2A profite directement aux membres actifs :
 
 * **Abonnés K2A SYMBIOSIS :** Chaque nouveau client parrainé génère une **remise de 0.4%** de la rente mensuelle du parrain (cumulable jusqu'à 250%). Distribution limitée à 4.0% par mois. Bonus utilisable si solde ≥ 2.0%.
-* **Abonnés K2A VELOCITY :** Chaque parrainage génère un crédit de **06 jours de licence gratuite** cumulable jusqu'à 630 jours. Distribution limitée à 20 jours/mois (le client paie le tire de son abonnement). Bonus utilisable par multiple entier de 20.
-* **Abonnés K2A INFINITY :** Chaque parrainage au plan Velocity génère un **bonus de 17$** cash, cumulable et illimité. Paiement effectif les 15 de chaque mois.
+* **Abonnés K2A VELOCITY :** Chaque parrainage génère un crédit de **06 jours de licence gratuite** cumulable jusqu'à 630 jours. Distribution limitée à 20 jours/mois (le client paie le tiers de son abonnement). Bonus utilisable par multiple entier de 20.
+* **Abonnés K2A INFINITY :** Chaque parrainage au plan K2A VELOCITY génère un **bonus de 17$** cash, cumulable et illimité. Paiement effectif les 15 de chaque mois.
 
 *Note : Des surprises seront révélées ultérieurement pour les "super parrains" via nos canaux officiels.*
 
@@ -111,7 +110,7 @@ La croissance de la communauté K2A profite directement aux membres actifs :
 
 ### ARTICLE 9 : RÉSILIATION & BANNISSEMENT
 
-Toute tentative de décompilation, de renommage du fichier .ex5, d'intrusion serveur ou de partage frauduleux entraînera :
+Toute tentative de *Décompilation*, de *Renommage* du fichier .ex5, d'*Intrusion* serveur ou de *Partage frauduleux* entraînera :
 1. La suspension immédiate et définitive sans remboursement.
 2. Le bannissement et l'inscription sur la **Blacklist Globale de K2A Corporate**.
 
@@ -122,27 +121,28 @@ Toute tentative de décompilation, de renommage du fichier .ex5, d'intrusion ser
 Pour garantir la liaison avec les serveurs, l'utilisateur doit configurer MetaTrader 5 :
 
 #### 🛠️ 10.1 Autorisations WebRequest
-Ajout manuel obligatoire des URLs dans Outils > Options > Conseillers Experts :
-* Cocher la case "Autoriser WebRequest pour les URL suivantes" puis coller les liens suivants
-* **Serveur de Licences :** `https://raw.githubusercontent.com`
-* **Passerelle Telegram :** `https://api.telegram.org`
+Ajout manuel obligatoire des URLs dans MetaTrader 5 :
+* Aller dans Outils > Options > Experts Consultant,
+* Cocher la case "Autoriser WebRequest pour les URL listés",
+* Copier et coller `https://raw.githubusercontent.com`
+* Copier et coller `https://api.telegram.org`
   
 *Note : Tout défaut de configuration entraînera l'arrêt du bot pour "Défaut d'Authentification".*
 
 #### 📩 10.2 Services de Support
-* **Centre d'Activation (Bot) :** @TonBotK2A_Bot (Lun-Ven | 09h00 - 21h00 UTC+1).
-* **Conciergerie Humaine :** Infinity, Imperium et Imperium + uniquement (24h/24).
+* **Centre d'Activation (Bot) :** [service support](https://t.me/K2ACorporateOfficiel_bot) (Lun-Ven | 09h00 - 19h00 UTC+1).
+* **Conciergerie Humaine :** [service support](https://t.me/K2ACorporateOfficiel_bot) ouvert 24h/24 pour Infinity, Imperium et Imperium+ uniquement.
 
 #### ⚙️ 10.3 Maintenance et Mises à jour
-* **Alerte :** En cas d'instabilité, une notification sera diffusée. Reconfiguration sous 48h requise.
-* **Non-Coercition :** Aucune version fonctionnelle ne sera désactivée à distance.
-* **Amélioration :** Les nouvelles versions sont mises à disposition librement.
+* **Alerte :** En cas d'instabilité, une notification sera largement diffusée. Reconfiguration sous 72h requise.
+* **Non-Coercition :** Aucune version distribuée ne sera désactivée à distance.
+* **Amélioration :** Les nouvelles versions du bot seront mises à disposition. L'utilisateur est donc libre de passer à la nouvelle version ou de rester sur l'ancienne.
 
 ---
 
-**À K2A Corporate, nous ne vendons pas du rêve, c’est du réel. Nous t’offrons une phase gratuite pour tester notre produit avant tout abonnement.**
+**À K2A Corporate, nous ne vendons pas du rêve, c’est du réel. Nous vous offrons une phase gratuite pour tester notre produit avant tout abonnement.**
 
 ---
 
 ### 📥 ÉTAPE SUIVANTE
-👉 **[Retour à l'accueil](https://k2a-corporate.github.io/Documentations/)**  | 👉 **[Je commence mon adhésion maintenant](https://t.me/K2ACorporateOfficiel_bot)** |
+👉 **[Je commence mon adhésion maintenant](https://t.me/K2ACorporateOfficiel_bot)** | 👉 **[Retour à l'accueil](https://k2a-corporate.github.io/Documentations/)**
