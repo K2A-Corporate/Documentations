@@ -14,7 +14,15 @@ Le présent document définit les règles d'usage de la technologie de trading a
 
 ---
 
-### ARTICLE 1 : PROPRIÉTÉ INTELLECTUELLE ET LICENCE
+### ARTICLE 1 : ÉLIGIBILITÉ ET MAJORITÉ LÉGALE
+L’accès aux technologies et services de **K2A Corporate** est strictement réservé aux personnes physiques majeures et jouissant de leur pleine capacité juridique.
+* **Condition d'âge :** Pour être éligible, l’utilisateur doit impérativement avoir atteint l’âge de 21 ans révolus au 31 décembre de l’année civile écoulée.
+* **Vérification : K2A Corporate** se réserve le droit de réclamer une preuve d'identité (CNI ou Passeport) à tout moment.
+> Toute infraction à cette clause ou fausse déclaration entraînera la nullité du contrat et le bannissement immédiat des services.
+
+---
+
+### ARTICLE 2 : PROPRIÉTÉ INTELLECTUELLE ET LICENCE
 
 * Le logiciel est protégé par des droits d'auteur.
 * Tout abonnement donne droit à l’activation d’une licence (par défaut mensuelle) dont **K2A Corporate** détient le monopole.
@@ -22,7 +30,7 @@ Le présent document définit les règles d'usage de la technologie de trading a
 
 ---
 
-### ARTICLE 2 : CATALOGUE DES SOLUTIONS (PLANS D’ABONNEMENT)
+### ARTICLE 3 : CATALOGUE DES SOLUTIONS (PLANS D’ABONNEMENT)
 
 | Nom du Plan | Type | Tarif (USD) | Spécificités |
 | :--- | :--- | :--- | :--- |
@@ -37,7 +45,7 @@ Le présent document définit les règles d'usage de la technologie de trading a
 
 ---
 
-### ARTICLE 3 : GESTION ET RÉVOCATION DES CONTRATS
+### ARTICLE 4 : GESTION ET RÉVOCATION DES CONTRATS
 
 * **Activation :** La souscription à un contrat (choix d'un plan) donne droit à l’activation de licence sans laquelle le robot ne peut s'attacher à un quelconque graphique.
 * **Validité**
@@ -52,7 +60,7 @@ Le présent document définit les règles d'usage de la technologie de trading a
 
 ---
 
-### ARTICLE 4 : ARCHITECTURE TECHNIQUE & LIMITES DE COMPTES
+### ARTICLE 5 : ARCHITECTURE TECHNIQUE & LIMITES DE COMPTES
 
 Afin de garantir la stabilité des flux de données et la sécurité des serveurs, les limites d'utilisation sont fixées comme suit :
 
@@ -66,7 +74,7 @@ Afin de garantir la stabilité des flux de données et la sécurité des serveur
 
 ---
 
-### ARTICLE 5 : DISPOSITIONS FINANCIÈRES (L'INDICE USD-K2A)
+### ARTICLE 6 : DISPOSITIONS FINANCIÈRES (L'INDICE USD-K2A)
 
 **K2A Corporate** applique une politique de change simplifiée pour ses utilisateurs en zone CFA :
 
@@ -75,7 +83,7 @@ Afin de garantir la stabilité des flux de données et la sécurité des serveur
 
 ---
 
-### ARTICLE 6 : PROGRAMME D'INCUBATION
+### ARTICLE 7 : PROGRAMME D'INCUBATION
 
 K2A Corporate encourage la croissance de ses clients via un système d'incubation exclusif. Ainsi l'accès à la technologie K2A débute par une phase de test gratuite et obligatoire.
 
@@ -92,7 +100,7 @@ K2A Corporate encourage la croissance de ses clients via un système d'incubatio
 
 ---
 
-### ARTICLE 7 : PROGRAMME AMBASSADEUR (STIMULATION)
+### ARTICLE 8 : PROGRAMME AMBASSADEUR (STIMULATION)
 
 La croissance de la communauté K2A profite directement aux membres actifs :
 
@@ -104,7 +112,7 @@ La croissance de la communauté K2A profite directement aux membres actifs :
 
 ---
 
-### ARTICLE 8 : RESPONSABILITÉ & RISQUES (CLAUSE DE NON-GARANTIE)
+### ARTICLE 9 : RESPONSABILITÉ & RISQUES (CLAUSE DE NON-GARANTIE)
 
 * Le trading sur marge comporte un niveau de risque élevé.
 * **K2A Corporate** fournit un logiciel d'automatisation, pas de conseil en investissement.
@@ -116,7 +124,7 @@ La croissance de la communauté K2A profite directement aux membres actifs :
 
 ---
 
-### ARTICLE 9 : RÉSILIATION & BANNISSEMENT
+### ARTICLE 10 : RÉSILIATION & BANNISSEMENT
 
 Toute tentative de *Décompilation*, de *Renommage* du fichier .ex5, d'*Intrusion* serveur ou de *Partage frauduleux* entraînera :
 1. La suspension immédiate et définitive sans remboursement.
@@ -124,11 +132,23 @@ Toute tentative de *Décompilation*, de *Renommage* du fichier .ex5, d'*Intrusio
 
 ---
 
-### ARTICLE 10 : INFRASTRUCTURES & SUPPORT TECHNIQUE
+### ARTICLE 11 : CONFIDENTIALITÉ ET PROTECTION DES DONNÉES
+Dans le cadre de l’adhésion et de la gestion technique des licences, K2A Corporate collecte des données personnelles via ses interfaces (Telegram, Data Stores).
+
+* **Finalité :** Ces données sont exclusivement utilisées pour l'authentification du logiciel, le support technique et la lutte contre la fraude (Blacklist).
+* **Engagement de sécurité :** K2A Corporate s'engage à ne jamais vendre, céder ou divulguer ces informations à des tiers à des fins commerciales.
+
+* **Droit d'accès :** L'utilisateur dispose d'un droit de rectification de ses informations sur simple demande auprès du support officiel.
+
+>**Données collectées :** Nom, Prénom, Adresse Email, Téléphone, Numéros de comptes de trading, Pièce d'Identité.
+
+---
+
+### ARTICLE 12 : INFRASTRUCTURES & SUPPORT TECHNIQUE
 
 Pour garantir la liaison avec les serveurs, l'utilisateur doit configurer MetaTrader 5 :
 
-#### 🛠️ 10.1 Autorisations WebRequest
+#### 🛠️ 12.1 Autorisations WebRequest
 Ajout manuel obligatoire des URLs dans MetaTrader 5 :
 * Aller dans Outils > Options > Expert Consultants,
 * Cocher la case "Autoriser WebRequest pour les URL listés",
@@ -137,11 +157,11 @@ Ajout manuel obligatoire des URLs dans MetaTrader 5 :
   
 *Note : Tout défaut de configuration rendra le bot innactif pour "Défaut d'Authentification".*
 
-#### 📩 10.2 Services de Support
+#### 📩 12.2 Services de Support
 * **Centre d'Activation (Bot) :** [service support](https://t.me/K2ACorporateOfficiel_bot) (Lun-Ven : 09h00 - 19h00 UTC+1).
 * **Conciergerie Humaine :** [service support](https://t.me/K2ACorporateOfficiel_bot) ouvert 24h/24 pour Infinity, Imperium et Imperium+ uniquement.
 
-#### ⚙️ 10.3 Maintenance et Mises à jour
+#### ⚙️ 12.3 Maintenance et Mises à jour
 * **Alerte :** En cas d'instabilité, une notification sera largement diffusée. Reconfiguration sous 72h requise.
 * **Non-Coercition :** Aucune version distribuée ne sera désactivée à distance.
 * **Amélioration :** Les nouvelles versions du bot seront mises à disposition. Le passage à la nouvelle version reste une décision personnelle de l'utilisateur.
