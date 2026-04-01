@@ -26,7 +26,7 @@ Le présent document définit les règles d'usage de la technologie de trading a
 
 | Nom du Plan | Type | Tarif (USD) | Spécificités |
 | :--- | :--- | :--- | :--- |
-| **K2A SYMBIOSIS** | Partenariat | Affilié : 10% profits <br> Non-Affilié : 17% profits | Contrat - Partage de revenus mensuel |
+| **K2A SYMBIOSIS** | Partenariat | Affilié : 10% profits / mois <br> Non-Affilié : 17% profits / mois | Contrat - Partenariat G-G |
 | **K2A VELOCITY** | Abonnement | 450 $ / mois | Contrat – Au fil de l’eau |
 | **K2A INFINITY** | Illimité | 24 999 $ | Contrat - Paiement unique (À vie) - Tant que MT5 existe |
 | **K2A IMPERIUM** | Franchise | 74 999 $ | Contrat - Paiement unique + Personnalisation + 20$/mois/licence |
@@ -47,8 +47,8 @@ Le présent document définit les règles d'usage de la technologie de trading a
    * Le plan K2A IMPERIUM a une durée illimitée pour le personnel vérifié.
    * Le plan K2A IMPERIUM+ a une durée illimitée avec droit d'administration complète.
 
-> **NB**
-> Un plan mensuel est irrévocable au profit d'un autre plan mensuel avant son expiration. Toutefois, la migration vers un plan à paiement unique (**INFINITY, IMPERIUM, IMPERIUM+**) est possible à tout moment.
+> * Un plan mensuel est irrévocable au profit d'un autre plan mensuel avant son expiration.
+> * Toutefois, la migration vers un plan à paiement unique (**INFINITY, IMPERIUM, IMPERIUM+**) est possible à tout moment.
 
 ---
 
@@ -62,7 +62,7 @@ Afin de garantir la stabilité des flux de données et la sécurité des serveur
 
 * **Extension "Verified User" :** Sur présentation d'une preuve d'appartenance (identité correspondante sur les certificats de comptes), la limite peut être étendue à **02 Comptes Réels par Broker** (Total : 4 comptes réels).
 
-* **Restriction de Sécurité :** Sans preuve d'appartenance valide, **K2A Corporate** se réserve le droit de restreindre l'accès à **01 seul compte réel unique**, tous brokers confondus.
+> **Restriction de Sécurité :** Sans preuve d'appartenance valide, **K2A Corporate** se réserve le droit de restreindre l'accès à **01 seul compte réel unique**, tous brokers confondus.
 
 ---
 
