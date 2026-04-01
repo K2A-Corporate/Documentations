@@ -39,9 +39,16 @@ Le présent document définit les règles d'usage de la technologie de trading a
 
 ### ARTICLE 3 : GESTION ET RÉVOCATION DES CONTRATS
 
-* **Activation :** La souscription à un contrat donne droit à l’activation de licence sans laquelle le robot se déconnecte automatiquement du graphique auquel il est attaché.
-* **Validité :** Les plans K2A SYMBIOSIS et K2A VELOCITY ont une validité de **21 mois actifs (non vide)** après la phase gratuite.
-* **Flexibilité :** Un plan mensuel est irrévocable au profit d'un autre plan mensuel avant son expiration. Toutefois, la migration vers un plan à paiement unique (**Infinity, Imperium, Imperium +**) est possible à tout moment.
+* **Activation :** La souscription à un contrat (choix d'un plan) donne droit à l’activation de licence sans laquelle le robot ne peut s'attacher à un quelconque graphique.
+* **Validité**
+   * Le plan K2A SYMBIOSIS a une validité de **21 mois actifs (non vide)** après la phase gratuite et peut être renouvelé à volonté.
+   * Le plan K2A VELOCITY a une validité de **12 mois** après la phase gratuite et peut être renouvelé à volonté.
+   * Le plan K2A INFINITY a une durée infinie/illimitée.
+   * Le plan K2A IMPERIUM a une durée illimitée pour le personnel vérifié.
+   * Le plan K2A IMPERIUM+ a une durée illimitée avec droit d'administration complète.
+
+> **NB**
+> Un plan mensuel est irrévocable au profit d'un autre plan mensuel avant son expiration. Toutefois, la migration vers un plan à paiement unique (**INFINITY, IMPERIUM, IMPERIUM+**) est possible à tout moment.
 
 ---
 
