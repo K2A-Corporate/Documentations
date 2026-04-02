@@ -140,7 +140,7 @@ Dans le cadre de l’adhésion et de la gestion technique des licences, K2A Corp
 
 * **Droit d'accès :** L'utilisateur dispose d'un droit de rectification de ses informations sur simple demande auprès du support officiel.
 
->**Données collectées :** Nom, Prénom, Adresse Email, Téléphone, Numéros de comptes de trading, Pièce d'Identité.
+>**Données collectées :** Nom, Prénom, Adresse Email, Téléphone, Date de Naissance, Brokers, Numéros de comptes de trading, Pièce d'Identité.
 
 ---
 
