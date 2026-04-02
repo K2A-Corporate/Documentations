@@ -30,11 +30,15 @@ Selon votre aisance technique, choisissez l'une des deux approches suivantes :
 3. **Configuration cruciale :** Dans l'onglet **"Général"**, cochez impérativement la case **"Autoriser le trading algorithmique"**.
 4. Vérifiez que le bouton **Trading Algo** (en haut de l'application MT5) est passé au **Vert**.
 
+---
+
+### 📈 3. MAITRISE DE LA PLATEFORME METATRADER 5 (MT5)
+
 >Pour une prise en main rapide de la plateforme de trading MT5, cliquez sur [**Tutoriel 1**](https://youtu.be/RWrHimN3Ius?si=pjHs5w8rVnwFhVpB) ou [**Tutoriel 2**](https://youtu.be/7ynRo1it2lM?si=ilMEXJGSWtXmqtPq).
 
 ---
 
-### ⚙️ 3. CONFIGURATION DES PARAMÈTRES (INPUTS)
+### ⚙️ 4. CONFIGURATION DES PARAMÈTRES DU BOT DE TRADING
 
 Voici la nomenclature complète des réglages de votre technologie.
 
@@ -75,15 +79,15 @@ Voici la nomenclature complète des réglages de votre technologie.
 
 ---
 
-### ⚠️ RAPPEL DE SÉCURITÉ
+### 5. (⚠️⚠️⚠️) RAPPEL DE SÉCURITÉ
 
-Assurez-vous d'avoir correctement ajouté les URLs de contrôle dans votre terminal (Menu **Outils** > **Options** > **Expert Consultant**) :
+Assurez-vous d'avoir correctement ajouté les URLs de contrôle dans votre terminal (Menu  **Outils** > **Options** > **Expert Consultant**) :
 * `https://raw.githubusercontent.com`
 * `https://api.telegram.org`
 
 > **Note :** Sans ces liens, le bot restera inactif.
 
 ---
-👉 **[Retour à l'accueil](https://k2a-corporate.github.io/Documentations/)** | 👉 **[Guide de démarrage](Adhesion)** | 👉 **[Conditions Générales d'Utilisation (CGU)](Conditions%20Générales%20d'Utilisation)**
+👉 **[Retour à l'accueil](https://k2a-corporate.github.io/Documentations/)** | 👉 **[Guide de démarrage](Guide%20de%20démarrage)** | 👉 **[Conditions Générales d'Utilisation (CGU)](Conditions%20Générales%20d'Utilisation)**
 
 
