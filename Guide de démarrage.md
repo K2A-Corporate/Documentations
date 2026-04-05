@@ -47,5 +47,31 @@ Le trading algorithmique nécessite une infrastructure stable. Avant de vous lan
 
 ---
 
+### 🚀 5. MODES DE TRADING
+
+
+
+---
+
+### 🚀 6. CONSEILS UTILES
+N'hésitez pas à revenir lire les quelques lignes de ce chapitre 6 pour garder votre esprit éveillé. <br>
+Dans cette activité, si vous n'êtes pas discipliné, vous ne serez pas rentable même avec mon super bot de trading 😄.
+
+Voici quelques conseils utiles pour être ou devenir un trader rentable.
+
+* Erreur à éviter pour être rentable
+	- Risquer plus de 2% de son capital.
+	- Trader avec les émotions.
+	- Se venger du marché après une perte.
+	- Vouloir gagner gros sur un trade.
+	- Ne pas retirer ses profits.
+* Bonnes attitudes à adopter
+	- Toujours respecter sa stratégie :
+		* ne pas prendre de gros risques (% capital toujours < ou = 2), 
+		* ne pas verser dans l'émotion.
+	- Couper le trade si le ratio risque/récompense atteint 1:2. (on ne dure pas sur le marché en mode scalping, sauf si vous êtes en swing)
+	- Établir un plan de retrait solide et le respecter. (Contactez le support si besoin d'un plan type)
+
+---
 
 👉 **[Retour à l'accueil](https://k2a-corporate.github.io/Documentations/)** | **[Lire les Conditions Générales d'Utilisation](Conditions%20Générales%20d'Utilisation)**
