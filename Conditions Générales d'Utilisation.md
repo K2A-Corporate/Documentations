@@ -49,7 +49,7 @@ L’accès aux technologies et services de **K2A Corporate** est strictement ré
 
 * **Activation :** La souscription à un contrat (choix d'un plan) donne droit à l’activation de licence sans laquelle le robot ne peut s'attacher à un quelconque graphique.
 * **Validité**
-   * Le plan K2A SYMBIOSIS a une validité de **21 mois actifs (non vide)** après la phase gratuite et peut être renouvelé à volonté.
+   * Le plan K2A SYMBIOSIS a une validité de **12 mois actifs (non vide)** après la phase gratuite et peut être renouvelé à volonté.
    * Le plan K2A VELOCITY a une validité de **12 mois** après la phase gratuite et peut être renouvelé à volonté.
    * Le plan K2A INFINITY a une durée infinie/illimitée.
    * Le plan K2A IMPERIUM a une durée illimitée pour le personnel vérifié.
