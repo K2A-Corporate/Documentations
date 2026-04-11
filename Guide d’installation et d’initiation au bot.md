@@ -82,6 +82,7 @@ Voici la nomenclature complète des réglages de votre technologie.
 ### 5. (⚠️⚠️⚠️) RAPPEL DE SÉCURITÉ
 
 Assurez-vous d'avoir correctement ajouté les URLs de contrôle dans votre terminal (Menu  **Outils** > **Options** > **Expert Consultant**) :
+* Cocher la case **"Autoriser WebRequest pour les URL listés"**
 * `https://raw.githubusercontent.com`
 * `https://api.telegram.org`
 
