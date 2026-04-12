@@ -34,8 +34,8 @@ L’accès aux technologies et services de **K2A Corporate** est strictement ré
 
 | Nom du Plan | Type | Tarif (USD) | Spécificités |
 | :--- | :--- | :--- | :--- |
-| **K2A SYMBIOSIS** | Partenariat | Affilié : 10% profits / mois | Contrat - Partenariat G-G |
-| **K2A VELOCITY** | Abonnement | 450 $ / mois | Contrat – Au fil de l’eau |
+| **K2A SYMBIOSIS** | Partenariat | 10% profits / mois | Contrat - Partenariat G-G |
+| **K2A VELOCITY** | Abonnement | 450 $ / mois | Contrat – Libre |
 | **K2A INFINITY** | Illimité | 24 999 $ | Contrat - Paiement unique (À vie) - Tant que MT5 existe |
 | **K2A IMPERIUM** | Franchise | 74 999 $ | Contrat - Paiement unique + Personnalisation + 20$/mois/licence |
 | **K2A IMPERIUM+** | Prestige | 99 999 $ | Transfert - Paiement unique + Contrôle total + Code source monolithique |
@@ -52,7 +52,7 @@ L’accès aux technologies et services de **K2A Corporate** est strictement ré
    * Le plan K2A SYMBIOSIS a une validité de **12 mois actifs (non vide)** après la phase gratuite et peut être renouvelé à volonté.
    * Le plan K2A VELOCITY a une validité de **12 mois** après la phase gratuite et peut être renouvelé à volonté.
    * Le plan K2A INFINITY a une durée infinie/illimitée.
-   * Le plan K2A IMPERIUM a une durée illimitée pour le personnel vérifié.
+   * Le plan K2A IMPERIUM a une durée illimitée pour le personnel vérifié de l'aquérant.
    * Le plan K2A IMPERIUM+ a une durée illimitée avec droit d'administration complète.
 
 > * Un plan mensuel est irrévocable au profit d'un autre plan mensuel avant son expiration.
@@ -89,14 +89,13 @@ K2A Corporate encourage la croissance de ses clients via un système d'incubatio
 
 * **Durée unique :** 35 jours non renouvenables.
 * **Modèles d'essai au choix  :**
-     * **Hybrid 1 (07/28) :** 07 jours en Démo / 28 jours en Réel.
-     * **Hybrid 2 (14/21) :** 14 jours en Démo / 21 jours en Réel.
+     * **MODEL_GRAT_1 (07/28) :** 07 jours en Démo / 28 jours en Réel.
+     * **MODEL_GRAT_2 (14/21) :** 14 jours en Démo / 21 jours en Réel.
 * **Transition :** Au-delà du 35ème jour, l'accès devient payant selon les tarifs en vigueur (voir Art. 2).<br> <br>
 
 > * **⚠️ Décision :** Le client doit notifier son choix de plan final **02 jours avant l'échéance** de la phase de test ou dès que le compte à rebours démarre sur son graphique.
 
-> * **Passage au Profil Affilié :** Si un profil indépendant (Non-Affilié) souhaite bénéficier des avantages liés au profil affilié (10% de la rente mensuelle), prière contacter le **[service support client](https://t.me/K2ACorporateOfficiel_bot)** dans la section **K2A SMART TRADING STRATEGY** puis **AFFILIATION**. <br> 
-> * Si vous n'avez pas encore un compte de trading, cliquez **[ICI](https://track.deriv.com/_WL6NXHGf2ko-kphAZc4sJmNd7ZgqdRLk/1/)** pour créer votre compte de trading deriv avec votre adresse e-mail valide.
+> * **Trader débutant :** Si vous n'avez pas encore un compte de trading, cliquez **[ICI](https://track.deriv.com/_WL6NXHGf2ko-kphAZc4sJmNd7ZgqdRLk/1/)** pour créer votre compte de trading deriv avec votre adresse e-mail valide.
 
 ---
 
@@ -104,11 +103,15 @@ K2A Corporate encourage la croissance de ses clients via un système d'incubatio
 
 La croissance de la communauté K2A profite directement aux membres actifs :
 
-* **Abonnés K2A SYMBIOSIS :** Chaque nouveau client parrainé génère une **remise de 0.4%** de la rente mensuelle du parrain (cumulable jusqu'à 250%). Distribution limitée à 4.0% par mois. Bonus utilisable si solde ≥ 2.0%.
-* **Abonnés K2A VELOCITY :** Chaque parrainage génère un crédit de **06 jours de licence gratuite** cumulable jusqu'à 630 jours. Distribution limitée à 20 jours/mois (le client paie le tiers de son abonnement). Bonus utilisable par multiple entier de 20.
+* **Abonnés K2A SYMBIOSIS :** Chaque nouveau client parrainé génère une **remise de 0.52%** de la rente mensuelle cumulable sans limites. Distribution limitée à 4%/mois et consommable si solde ≥ 2%.
+
+* **Abonnés K2A VELOCITY :** Chaque parrainage génère un crédit de **03 jours de licence gratuite** cumulable sans limites. Distribution limitée à 12 jours/mois et consommable si solde ≥ 12 jours.
+
 * **Abonnés K2A INFINITY :** Chaque parrainage au plan K2A VELOCITY génère un **bonus de 17$** cash, cumulable et illimité. Paiement effectif les 15 de chaque mois.
 
-*Note : Des surprises seront révélées ultérieurement pour les "super parrains" via nos canaux officiels.*
+>**Notes :**
+>* Les bonus sont consommables uniquement après l'activation d'un abonnement suite à la phase de test.
+>* Des surprises seront révélées ultérieurement, via nos canaux officiels, pour les "clients actifs".
 
 ---
 
@@ -157,9 +160,9 @@ Ajout manuel obligatoire des URLs dans MetaTrader 5 :
   
 *Note : Tout défaut de configuration rendra le bot innactif pour "Défaut d'Authentification".*
 
-#### 📩 12.2 Services de Support
-* **Centre d'Activation (Bot) :** [service support](https://t.me/K2ACorporateOfficiel_bot) (Lun-Ven : 09h00 - 19h00 UTC+1).
-* **Conciergerie Humaine :** [service support](https://t.me/K2ACorporateOfficiel_bot) ouvert 24h/24 pour Infinity, Imperium et Imperium+ uniquement.
+#### 📩 12.2 Service de Support
+* **Centre d'Aide :** [service support](https://t.me/k2a_sts?direct) (Lun-Ven : 09h00 - 19h00 UTC+1).
+* Les clients qui s'abonnent aux plans #Infinity, #Imperium et #Imperium+ recevront un lien pour le service support qui leur sera ouvert 24h/24.
 
 #### ⚙️ 12.3 Maintenance et Mises à jour
 * **Alerte :** En cas d'instabilité, une notification sera largement diffusée. Reconfiguration sous 72h requise.
@@ -173,4 +176,4 @@ Ajout manuel obligatoire des URLs dans MetaTrader 5 :
 ---
 
 ### 📥 ÉTAPE SUIVANTE
-👉 **[Je commence mon adhésion maintenant](https://t.me/K2ACorporateOfficiel_bot)** | 👉 **[Retour à l'accueil](https://k2a-corporate.github.io/Documentations/)**
+👉 **[Je commence mon adhésion maintenant](https://t.me/K2ACorporateOfficiel_bot)**
