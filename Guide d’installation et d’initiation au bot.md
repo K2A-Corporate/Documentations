@@ -19,16 +19,16 @@ Selon votre aisance technique, choisissez l'une des deux approches suivantes :
 1. Sur MT5, cliquez sur le menu **Fichier** > **Ouvrir le dossier des données**.
 2. Allez dans le dossier `MQL5`, puis dans le sous-dossier `Experts`.
 3. **Copiez-collez** votre fichier `Master_ScalpSwinger mt5.ex5` à cet endroit.
-4. Dans le navigateur de MT5 (à gauche), faites un clic droit sur "Expert Consultant" et choisissez **Actualiser**.
+4. Dans le navigateur de MT5 (à gauche), faites un clic droit sur la catégorie "Expert Consultant" et choisissez **Actualiser**.
 
 ---
 
 ### 📈 2. ATTACHEMENT AU GRAPHIQUE
 
 1. Ouvrez le graphique de l'actif souhaité (ex: *Volatility Index 50* ou *EURUSD*).
-2. Faites glisser le bot depuis le navigateur vers le graphique.
-3. **Configuration cruciale :** Dans l'onglet **"Général"**, cochez impérativement la case **"Autoriser le trading algorithmique"**.
-4. Vérifiez que le bouton **Trading Algo** (en haut de l'application MT5) est passé au **Vert**.
+2. Faites glisser le bot depuis le navigateur vers le graphique. Une fenêtre de configuration s'ouvre.
+3. **Configuration cruciale :** Dans l'onglet **"Général"** de cette fenêtre, cochez impérativement la case **"Autoriser le trading algorithmique"**.
+4. Vérifiez que le bouton **Trading Algo** (en haut de l'application MT5) est passé au **Vert**, si non, cliquez dessus.
 
 ---
 
@@ -38,7 +38,28 @@ Selon votre aisance technique, choisissez l'une des deux approches suivantes :
 
 ---
 
-### ⚙️ 4. CONFIGURATION DES PARAMÈTRES DU BOT DE TRADING
+### 📱 4. CONFIGURATION DES NOTIFICATIONS MOBILES
+
+Pour recevoir les alertes de votre bot directement sur votre smartphone (iPhone ou Android), suivez cette procédure simple :
+
+1. **Sur votre Smartphone :**
+   - Téléchargez et ouvrez l'application **MetaTrader 5**.
+   - Allez dans le menu **Paramètres** > **Messages**.
+   - En bas ou en haut de l'écran, vous trouverez votre **MetaQuotes ID** ou simplement **MQID** (un code unique de quelques caractères). Notez-le.
+
+2. **Sur votre Ordinateur (Terminal MT5) :**
+   - Allez dans le menu **Outils** > **Options**.
+   - Cliquez sur l'onglet **Notifications**.
+   - Cochez la case **"Autoriser les notifications push"**.
+   - Saisissez votre **MetaQuotes ID** dans le champ correspondant.
+   - Cliquez sur le bouton **"Test"** pour vérifier que vous recevez bien une notification sur votre téléphone.
+
+3. **Dans le Bot :**
+   - Assurez-vous que le paramètre `Send_Notification` est réglé sur **true** dans les réglages du robot (voir tableau ci-dessous).
+
+---
+
+### ⚙️ 5. CONFIGURATION DES PARAMÈTRES DU BOT DE TRADING
 
 Voici la nomenclature complète des réglages de votre technologie.
 
@@ -49,7 +70,7 @@ Voici la nomenclature complète des réglages de votre technologie.
 | `buyOrSell = TRADE_BOTH` | **Flux** : Choix entre Achat (TRADE_BUY_ONLY), <br> Vente (TRADE_SELL_ONLY) ou les deux (TRADE_BOTH). Ce paramètre est intéressant si vous arrivez à identifier une tendance claire. |
 | `MagicNumber = 1010` | **Identifiant unique** : Empêche le conflit avec vos autres trades. Veillez à ne pas utiliser le même numéro sur deux graphiques différents. |
 | `Display_Information = true` | **Interface visuelle** : Affiche les stats sur le graphique. |
-| `Send_Notification = false` | **Notification Mobile** : Alerte Push sur smartphone. Ne pas oublier de faire la liaison entre le téléphone et l'ordinateur. |
+| `Send_Notification = true` | **Notification Mobile** : Alerte Push sur smartphone. Ne pas oublier de faire la liaison entre le téléphone et l'ordinateur. |
 | `Send_Alert = false` | **Alerte sonore** : Bip sur l'ordinateur lors d'un signal. |
 | `_______________Trend_Parameters___________` |  |
 | `Open_Positions_TIMEFRAMES = PERIOD_M15` | **Unité de temps** : Période d'analyse utilisée par le robot pour la détection des signaux et la prise de décisions. |
@@ -79,9 +100,10 @@ Voici la nomenclature complète des réglages de votre technologie.
 
 ---
 
-### 5. (⚠️⚠️⚠️) RAPPEL DE SÉCURITÉ
+### ⚠️ 6. RAPPEL DE SÉCURITÉ
 
 Assurez-vous d'avoir correctement ajouté les URLs de contrôle dans votre terminal (Menu  **Outils** > **Options** > **Expert Consultant**) :
+
 * Cocher la case **"Autoriser WebRequest pour les URL listés"**
 * `https://raw.githubusercontent.com`
 * `https://api.telegram.org`
