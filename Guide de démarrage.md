@@ -7,13 +7,10 @@ Bienvenue dans l'infrastructure de croissance **K2A**. Pour intégrer notre tech
 
 ### 🔗 1. CRÉATION DU COMPTE DE TRADING
 
-L'adhésion à l'écosystème passe impérativement par l'ouverture d'un compte via un courtier ou un broker. 
+L'adhésion à l'écosystème passe impérativement par l'ouverture d'un compte de trading via un courtier ou un broker. 
 
 👉 **[CLIQUEZ ICI POUR OUVRIR VOTRE COMPTE](https://track.deriv.com/_WL6NXHGf2ko-kphAZc4sJmNd7ZgqdRLk/1/)**
-<br>
-> **A SAVOIR** <br>
-> **1.** Seuls les comptes créés via ce lien sont éligibles au programme **"Affiliés"** du plan **K2A SYMBIOSIS** que vous découvrirez dans nos Conditions Générales d'Utilisation (CGU). <br>
-> **2.** Si vous disposez déjà d'un compte deriv mais que vous souhaitez devenir "Affiliés" au sein de notre écosystème, contactez le [service support](https://t.me/K2ACorporateOfficiel_bot), choisissez le service **K2A SMART TRADING STRATEGY** puis la section **AFFILIATION**.
+
 
 ---
 
@@ -35,6 +32,7 @@ Le trading algorithmique nécessite une infrastructure stable. Avant de vous lan
 
 * **Un Ordinateur :** Un PC (Windows de préférence) capable de faire tourner MetaTrader 5 en continu.
 * **Une Connexion Internet :** Une connexion illimitée et stable est **obligatoire**. Les micro-coupures peuvent affecter l'exécution des ordres du bot.
+* **Optionnel (Hautement recommandé) :** Un VPS (Serveur Virtuel Privé) pour un fonctionnement 24h/24 sans laisser votre PC allumé.
 
 ---
 
@@ -47,30 +45,49 @@ Le trading algorithmique nécessite une infrastructure stable. Avant de vous lan
 
 ---
 
-### 🚀 5. MODES DE TRADING
+### 🛡️ 5. CE QUE NOUS NE FAISONS PAS (ÉTHIQUE & SÉCURITÉ)
 
+Pour la transparence de notre relation, **K2A Corporate** précise qu'elle ne propose aucun service de :
 
+* **Gestion de fonds :** Nous n'encaissons jamais votre capital.
+* **Gestion de compte :** Vous restez le seul maître de vos accès à vos comptes de trading.
+* **Investissement à rendement multiples :** Nous fuyons les promesses de retours multiples garantis. Le trading comporte des risques, nous fournissons la **technologie**, vous gérez le **risque**.
 
 ---
 
-### 🚀 6. CONSEILS UTILES
-N'hésitez pas à revenir lire les quelques lignes de ce chapitre 6 pour garder votre esprit éveillé. <br>
-Dans cette activité, si vous n'êtes pas discipliné, vous ne serez pas rentable même avec mon super bot de trading 😄.
+### 📊 6. MODES ET STYLES DE TRADING
 
-Voici quelques conseils utiles pour être ou devenir un trader rentable.
+Notre technologie s'adapte à votre psychologie et à votre emploi du temps :
 
-* Erreur à éviter pour être rentable
-	- Risquer plus de 2% de son capital.
-	- Trader avec les émotions.
-	- Se venger du marché après une perte.
-	- Vouloir gagner gros sur un trade.
-	- Ne pas retirer ses profits.
-* Bonnes attitudes à adopter
-	- Toujours respecter sa stratégie :
-		* ne pas prendre de gros risques (% capital toujours < ou = 2), 
-		* ne pas verser dans l'émotion.
-	- Couper le trade si le ratio risque/récompense atteint 1:2. (on ne dure pas sur le marché en mode scalping, sauf si vous êtes en swing)
-	- Établir un plan de retrait solide et le respecter. (Contactez le support si besoin d'un plan type)
+#### **A. Styles de trading**
+
+Il existe trois (03) styles de trading :
+
+* **1. Scalping :** Pour ceux qui cherchent des profits rapides sur de petites variations du marché (spécialité de notre bot).
+* **2. Day Trading :** Toutes les positions sont ouvertes et fermées durant la même journée.
+* **3. Swing Trading :** Des positions tenues sur plusieurs jours pour capter de plus grands mouvements.
+
+#### **B. Méthodes d'Exécution**
+
+Voici trois méthodes d'utilisation du bot.
+
+* **1. Mode Automatique (Full Bot) :** Le bot gère tout de A à Z (entrées, sorties, gestion du risque).
+* **2. Mode Manuel Assisté :** Vous utilisez les analyses du bot comme signaux pour prendre vos propres décisions de trading.
+* **3. Mode Hybride :** Vous laissez le bot trader, mais vous intervenez pour couper les positions selon votre ressenti ou lors des annonces économiques majeures.
+
+> _Nous vous recommandons le mode Hybride._
+---
+
+### 💡 7. CONSEILS POUR UN TRADING RENTABLE
+
+> "Le trading, c'est 10% de technique et 90% de discipline."
+
+Pour rester rentable sur le long terme avec **Master_ScalpSwinger**, adoptez ces règles d'or :
+
+* **La règle des 2% :** Ne risquez jamais plus de 2% de votre capital sur une seule série de trades.
+* **Discipline de fer :** Le bot n'a pas d'émotions, ne lui en donnez pas. Ne tentez pas de "vous venger" du marché après une perte.
+* **Le Ratio Risque/Récompense :** Coupez vos trades dès que le marché atteint des niveaux de résistance et/ou de support clés. En mode scalping, la gourmandise est l'ennemie du profit et ***la rapidité est votre alliée***.
+* **Retrait des profits :** _Payez-vous._ Établissez un plan de retrait hebdomadaire ou mensuel. Un profit n'est réel que lorsqu'il est sur votre compte bancaire.
 
 ---
 
