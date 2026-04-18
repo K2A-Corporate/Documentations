@@ -1,4 +1,4 @@
-### 💡 7. CONSEILS POUR UN TRADING RENTABLE
+# 💡 PSYCHOLOGIE DU TRADER RENTABLE
 
 > "Le trading, c'est 10% de technique et 90% de discipline."
 
