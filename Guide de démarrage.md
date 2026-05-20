@@ -9,7 +9,7 @@ Bienvenue dans l'infrastructure de croissance **K2A**. Pour intégrer notre tech
 
 L'adhésion à l'écosystème passe impérativement par l'ouverture d'un compte de trading via un courtier ou un broker. 
 
-👉 **[CLIQUEZ ICI POUR OUVRIR VOTRE COMPTE](https://track.deriv.com/_WL6NXHGf2ko-kphAZc4sJmNd7ZgqdRLk/1/)**
+👉 **[CLIQUEZ ICI POUR OUVRIR VOTRE COMPTE](https://track.deriv.com/_WL6NXHGf2kr1hit6RV3zsGNd7ZgqdRLk/1/)**
 
 Sautez cette étape si vous disposez déjà d'un compte de trading.
 
