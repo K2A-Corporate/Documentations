@@ -11,14 +11,14 @@ Selon votre aisance technique, choisissez l'une des deux approches suivantes :
 
 #### 🔹 Approche A : Lancement direct (Mode "Application")
 1. Laissez votre terminal **MetaTrader 5** ouvert.
-2. Localisez le fichier `Master_ScalpSwinger mt5.ex5` sur votre ordinateur.
+2. Localisez le fichier `Master_ScalpSwinger_v3.8.ex5` sur votre ordinateur.
 3. Faites un **double-clic** sur le fichier.
 4. Le bot s'installe instantanément dans votre terminal et apparait sous "Expert Consultant".
 
 #### 🔹 Approche B : Installation manuelle (Dossier Source)
 1. Sur MT5, cliquez sur le menu **Fichier** > **Ouvrir le dossier des données**.
 2. Allez dans le dossier `MQL5`, puis dans le sous-dossier `Experts`.
-3. **Copiez-collez** votre fichier `Master_ScalpSwinger mt5.ex5` à cet endroit.
+3. **Copiez-collez** votre fichier `Master_ScalpSwinger_v3.8.ex5` à cet endroit.
 4. Dans le navigateur de MT5 (à gauche), faites un clic droit sur la catégorie "Expert Consultant" et choisissez **Actualiser**.
 
 ---
@@ -87,16 +87,8 @@ Voici la nomenclature complète des réglages de votre technologie.
 | `Use_TP` | **Take Profit** : Active la clôture automatique en profit. |
 | `TP_Factor = 2.0` | **Ratio Gain** : Multiplicateur du risque pour fixer l'objectif. <br> Si vous souhaitez que le bot définisse un niveau d'objectif optimal suivant la structure du marché, mettez cette valeur = 0. |
 | `CloseByMomentum = true` | **Sortie Dynamique** : Ferme le trade si le marché s'essouffle. <br> C'est le paramètre qu'on peut désigner par "émotion" du bot. Si vous constater qu'il est trop émotif c'est que le marché est en phase de consolidation. Mettez juste cette valeur à "false" pendant cette phase. |
-| `_______________Fibonacci_Module___________` |  |
-| `Use_Fibo_Logic = false` | **Mode Fibo** : Active la stratégie par retracements. Outil supplémentaire puissant. |
-| `Fibo_Level_0 = 0.0` | Point bas de référence pour l'outil Fibonacci. |
-| `Fibo_Level_100 = 0.0` | Point haut de référence pour l'outil Fibonacci. |
-| `Fibo_Target_Entry = LEVEL_70` | Niveau de retracement attendu pour l'entrée. |
-| `Fibo_Target_TP = TP_MINUS_25` | Niveau visé pour la sortie en profit. |
-| `send_Fibo_Notification = true` | Notification spécifique pour les signaux Fibo. |
-| `draw_Fibo_Lines = true` | Affiche les lignes Fibonacci sur l'écran. |
 
-> Le robot est conçu pour déplacer automatiquement le stop loss (Traling Stop). Ce paramètre n'est pas laisser au choix de l'utilisateur afin de garantir la rentabilité.
+> Le robot est conçu pour déplacer automatiquement le stop loss (Traling Stop). 
 
 ---
 
