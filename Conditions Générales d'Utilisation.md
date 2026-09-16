@@ -2,7 +2,7 @@
 ## CHARTE CONTRACTUELLE — K2A CORPORATE
 
 **Division :** K2A Smart Trading Strategy (K2Asts)  
-**Version :** 3.1 — **Statut :** Officiel — **Date :** 24 Mars 2026
+**Version :** 3.8 — **Statut :** Officiel — **Date :** 24 Mars 2026
 
 ---
 
@@ -35,10 +35,9 @@ L’accès aux technologies et services de **K2A Corporate** est strictement ré
 | Nom du Plan | Type | Tarif (USD) | Spécificités |
 | :--- | :--- | :--- | :--- |
 | **K2A SYMBIOSIS** | Partenariat | 10% profits / mois | Contrat - Partenariat G-G |
-| **K2A VELOCITY** | Abonnement | 450 $ / mois | Contrat – Libre |
+| **K2A VELOCITY** | Abonnement | 449 $ / mois | Contrat – Libre |
 | **K2A INFINITY** | Illimité | 24 999 $ | Contrat - Paiement unique (À vie) - Tant que MT5 existe |
 | **K2A IMPERIUM** | Franchise | 74 999 $ | Contrat - Paiement unique + Personnalisation + 20$/mois/licence |
-| **K2A IMPERIUM+** | Prestige | 99 999 $ | Transfert - Paiement unique + Contrôle total + Code source monolithique |
 
 > * Le plan **K2A SYMBIOSIS** exige la présentation de preuves de performance du mois écoulé. <br> 
 > * Une réduction allant de **7 à 21%** est prévue et applicable exceptionnellement sur le plan **K2A VELOCITY** pour les licences cumulatives (3-6-12 mois). 
@@ -52,11 +51,10 @@ L’accès aux technologies et services de **K2A Corporate** est strictement ré
    * Le plan K2A SYMBIOSIS a une validité de **12 mois actifs (non vide)** après la phase gratuite et peut être renouvelé à volonté.
    * Le plan K2A VELOCITY a une validité de **12 mois** après la phase gratuite et peut être renouvelé à volonté.
    * Le plan K2A INFINITY a une durée infinie/illimitée.
-   * Le plan K2A IMPERIUM a une durée illimitée pour le personnel vérifié de l'aquérant.
-   * Le plan K2A IMPERIUM+ a une durée illimitée avec droit d'administration complète.
+   * Le plan K2A IMPERIUM a une durée illimitée pour le personnel vérifié de l'acquérant et ne pouvant pas dépasser un effectif total de 10.
 
 > * Un plan mensuel est irrévocable au profit d'un autre plan mensuel avant son expiration.
-> * Toutefois, la migration vers un plan à paiement unique (**INFINITY, IMPERIUM, IMPERIUM+**) est possible à tout moment.
+> * Toutefois, la migration vers un plan à paiement unique (**INFINITY ou IMPERIUM**) est possible à tout moment.
 
 ---
 
@@ -85,12 +83,10 @@ Afin de garantir la stabilité des flux de données et la sécurité des serveur
 
 ### ARTICLE 7 : PROGRAMME D'INCUBATION
 
-K2A Corporate encourage la croissance de ses clients via un système d'incubation exclusif. Ainsi l'accès à la technologie K2A débute par une phase de test gratuite et obligatoire.
+L'accès à la technologie K2A débute par une phase de test gratuite et obligatoire.
 
 * **Durée unique :** 35 jours non renouvenables.
-* **Modèles d'essai au choix  :**
-     * **MODEL_GRAT_1 (07/28) :** 07 jours en Démo / 28 jours en Réel.
-     * **MODEL_GRAT_2 (14/21) :** 14 jours en Démo / 21 jours en Réel.
+* **Modèles d'essai unique :** 21 jours en Démo / 14 jours en Réel.
 * **Transition :** Au-delà du 35ème jour, l'accès devient payant selon les tarifs en vigueur (voir Art. 2).<br> <br>
 
 > * **⚠️ Décision :** Le client doit notifier son choix de plan final **02 jours avant l'échéance** de la phase de test ou dès que le compte à rebours démarre sur son graphique.
