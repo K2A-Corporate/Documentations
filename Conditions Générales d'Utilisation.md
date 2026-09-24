@@ -91,7 +91,7 @@ L'accès à la technologie K2A débute par une phase de test gratuite et obligat
 
 > * **⚠️ Décision :** Le client doit notifier son choix de plan final **02 jours avant l'échéance** de la phase de test ou dès que le compte à rebours démarre sur son graphique.
 
-> * **Trader débutant :** Si vous n'avez pas encore un compte de trading, cliquez **[ICI](https://track.deriv.com/_WL6NXHGf2kr1hit6RV3zsGNd7ZgqdRLk/1/)** pour créer votre compte de trading deriv avec votre adresse e-mail valide.
+> * **Trader débutant :** Si vous n'avez pas encore un compte de trading, cliquez **[ICI](https://t.deriv.link?t=H8ZXXBZYNGHR)** pour créer votre compte client deriv avec votre adresse e-mail valide.
 
 ---
 
