@@ -9,7 +9,7 @@ Bienvenue dans l'infrastructure de croissance **K2A**. Pour intégrer notre tech
 
 L'adhésion à l'écosystème passe impérativement par l'ouverture d'un compte de trading via un courtier ou un broker. 
 
-👉 **[CLIQUEZ ICI POUR OUVRIR VOTRE COMPTE](https://track.deriv.com/_WL6NXHGf2kr1hit6RV3zsGNd7ZgqdRLk/1/)**
+👉 **[CLIQUEZ ICI POUR OUVRIR VOTRE COMPTE](https://t.deriv.link?t=H8ZXXBZYNGHR)**
 
 Sautez cette étape si vous disposez déjà d'un compte de trading.
 
@@ -39,7 +39,7 @@ Le trading algorithmique nécessite une infrastructure stable. Avant de vous lan
 
 ### 🚀 4. ÉTAPES D'ACTIVATION
 
-1. **Ouvrir un Compte :** Créez votre compte via ce lien **[ouvrir mon compte de trading](https://track.deriv.com/_WL6NXHGf2ko-kphAZc4sJmNd7ZgqdRLk/1/)**.
+1. **Ouvrir un Compte : [Créer mon compte de trading](https://t.deriv.link?t=H8ZXXBZYNGHR)**.
 2. **Effectuer un Dépôt :** Alimentez votre compte de trading (Capital minimum conseillé : seulement **ce que vous pouvez vous permettre de perdre**).
 3. Lire les **[Conditions Générales d'Utilisation](Conditions%20Générales%20d'Utilisation)**.
 4. Procéder à votre **[Adhésion](https://t.me/K2ACorporateOfficiel_bot)** si vous acceptez les Conditions Générales d'Utilisation.
