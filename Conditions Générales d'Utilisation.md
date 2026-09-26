@@ -99,7 +99,7 @@ L'accès à la technologie K2A débute par une phase de test gratuite et obligat
 
 La croissance de la communauté K2A profite directement aux membres actifs :
 
-| Niveau du parrain | f-K2A SYMBIOSIS | f-K2A VELOCITY | f-K2A INFINITY | Minimum consommable | Seuil mensuel |
+| Niveau du parrain | f-K2A SYMBIOSIS | f-K2A VELOCITY | f-K2A INFINITY | Minimum <br>consommable | Seuil mensuel de <br>consommation |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **K2A SYMBIOSIS** | remise de 1% | remise de 4% | remise complète | 2% | 6% ou Plafond |
 | **K2A VELOCITY** | +3 jrs | +2% soit $8.98 | +1% soit $249.99 | 12 jours,  $5.0 | 12 jours,  $200.0 |
