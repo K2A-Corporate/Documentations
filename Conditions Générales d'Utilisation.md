@@ -98,7 +98,7 @@ L'accès à la technologie K2A débute par une phase de test gratuite et obligat
 ### ARTICLE 8 : PROGRAMME AMBASSADEUR (STIMULATION)
 
 La croissance de la communauté K2A profite directement aux membres actifs :
-<br>
+
 | Niveau du parrain | f-K2A SYMBIOSIS | f-K2A VELOCITY | f-K2A INFINITY | Minimum consommable | Seuil mensuel |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **K2A SYMBIOSIS** | remise de 0.52% | remise de 3% | remise de 8% | 2% | 6% |
