@@ -37,7 +37,7 @@ L’accès aux technologies et services de **K2A Corporate** est strictement ré
 | **K2A SYMBIOSIS** | Partenariat | 10% profits / mois | Contrat - Partenariat G-G |
 | **K2A VELOCITY** | Abonnement | 449 $ / mois | Contrat – Libre |
 | **K2A INFINITY** | Illimité | 24 999 $ | Contrat - Paiement unique (À vie Tant que MT5 existe) |
-| **K2A IMPERIUM** | Franchise | 74 999 $ | Contrat - Paiement unique + Personnalisation + 20$/mois/licence |
+| **K2A IMPERIUM** | Prestige | 74 999 $ | Contrat - Paiement unique + Personnalisation + 20$/mois/licence |
 
 > * Le plan **K2A SYMBIOSIS** exige la présentation de preuves de performance du mois écoulé. <br> 
 > * Une réduction allant de **7 à 21%** est prévue et applicable exceptionnellement sur le plan **K2A VELOCITY** pour les licences cumulatives (3-6-12 mois). 
