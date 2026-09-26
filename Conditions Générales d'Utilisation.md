@@ -36,7 +36,7 @@ L’accès aux technologies et services de **K2A Corporate** est strictement ré
 | :--- | :--- | :--- | :--- |
 | **K2A SYMBIOSIS** | Partenariat | 10% profits / mois | Contrat - Partenariat G-G |
 | **K2A VELOCITY** | Abonnement | 449 $ / mois | Contrat – Libre |
-| **K2A INFINITY** | Illimité | 24 999 $ | Contrat - Paiement unique (À vie) - Tant que MT5 existe |
+| **K2A INFINITY** | Illimité | 24 999 $ | Contrat - Paiement unique (À vie Tant que MT5 existe) |
 | **K2A IMPERIUM** | Franchise | 74 999 $ | Contrat - Paiement unique + Personnalisation + 20$/mois/licence |
 
 > * Le plan **K2A SYMBIOSIS** exige la présentation de preuves de performance du mois écoulé. <br> 
@@ -98,16 +98,15 @@ L'accès à la technologie K2A débute par une phase de test gratuite et obligat
 ### ARTICLE 8 : PROGRAMME AMBASSADEUR (STIMULATION)
 
 La croissance de la communauté K2A profite directement aux membres actifs :
+<br>
+| Niveau du parrain | f-K2A SYMBIOSIS | f-K2A VELOCITY | f-K2A INFINITY | Minimum consommable | Seuil mensuel |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **K2A SYMBIOSIS** | remise de 0.52% | remise de 3% | remise de 8% | 2% | 6% |
+| **K2A VELOCITY** | +3 jrs | +2% soit $8.98 | +1% soit $249.99 | 12 jours,  $5.0 | 12 jours,  $200.0 |
+| **K2A INFINITY** | +$7.0 | +4% soit $17.96 | +3% soit $749.97 | - | - |
 
-* **Abonnés K2A SYMBIOSIS :** Chaque nouveau client parrainé génère une **remise de 0.52%** de la rente mensuelle cumulable sans limites. Distribution limitée à 4%/mois et consommable si solde ≥ 2%.
-
-* **Abonnés K2A VELOCITY :** Chaque parrainage génère un crédit de **03 jours de licence gratuite** cumulable sans limites. Distribution limitée à 12 jours/mois et consommable si solde ≥ 12 jours.
-
-* **Abonnés K2A INFINITY :** Chaque parrainage au plan K2A VELOCITY génère un **bonus de 17$** cash, cumulable et illimité. Paiement effectif les 15 de chaque mois.
-
->**Notes :**
->* Les bonus sont consommables uniquement après l'activation d'un abonnement suite à la phase de test.
->* Des surprises seront révélées ultérieurement, via nos canaux officiels, pour les "clients actifs".
+>**Condition d'activation :**
+> Les parrains bénéficient de leurs bonus uniquement après l'activation d'un abonnement payant par leurs filleuls suite à la phase de test. Il est donc recommandé d'accompagner au mieux les filleuls pendant leur période d'essai.
 
 ---
 
@@ -157,8 +156,8 @@ Ajout manuel obligatoire des URLs dans MetaTrader 5 :
 *Note : Tout défaut de configuration rendra le bot innactif pour "Défaut d'Authentification".*
 
 #### 📩 12.2 Service de Support
-* **Centre d'Aide :** [service support](https://t.me/k2a_sts?direct) (Lun-Ven : 09h00 - 19h00 UTC+1).
-* Les clients qui s'abonnent aux plans #Infinity, #Imperium et #Imperium+ recevront un lien pour le service support qui leur sera ouvert 24h/24.
+* **Centre d'Aide :** [service support](https://t.me/k2a_sts?direct) (Lun-Ven : 07h00 - 20h59 UTC+1).
+* Les clients qui s'abonnent aux plans #Infinity et #Imperium recevront un lien pour le service support qui leur sera ouvert 24h/24.
 
 #### ⚙️ 12.3 Maintenance et Mises à jour
 * **Alerte :** En cas d'instabilité, une notification sera largement diffusée. Reconfiguration sous 72h requise.
