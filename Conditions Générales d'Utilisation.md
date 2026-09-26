@@ -101,9 +101,9 @@ La croissance de la communauté K2A profite directement aux membres actifs :
 
 | Niveau du parrain | f-K2A SYMBIOSIS | f-K2A VELOCITY | f-K2A INFINITY | Minimum consommable | Seuil mensuel |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **K2A SYMBIOSIS** | remise de 0.52% | remise de 3% | remise de 8% | 2% | 6% |
+| **K2A SYMBIOSIS** | remise de 1% | remise de 4% | remise complète | 2% | 6% ou Plafond |
 | **K2A VELOCITY** | +3 jrs | +2% soit $8.98 | +1% soit $249.99 | 12 jours,  $5.0 | 12 jours,  $200.0 |
-| **K2A INFINITY** | +$7.0 | +4% soit $17.96 | +3% soit $749.97 | - | - |
+| **K2A INFINITY** | +$4.0 | +4% soit $17.96 | +3% soit $749.97 | - | - |
 
 >**Condition d'activation :**
 > Les parrains bénéficient de leurs bonus uniquement après l'activation d'un abonnement payant par leurs filleuls suite à la phase de test. Il est donc recommandé d'accompagner au mieux les filleuls pendant leur période d'essai.
