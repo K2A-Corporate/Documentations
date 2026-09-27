@@ -12,3 +12,5 @@ Le lien est aussi disponible dans le **Guide de démarrage**.
 > Le lien utile pour votre adhésion se trouve dans les CGU ci-dessus.
 
 Nous avons hâte de vous compter parmis nos clients !!!
+
+Utile 👉 **[Guide d'installation et d'initiation au bot](Guide%20d%E2%80%99installation%20et%20d%E2%80%99initiation%20au%20bot)**
